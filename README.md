@@ -257,9 +257,9 @@ Se você utilizar estes arquivos, cite o artigo associado ao SBPO 2026:
 
 ```bibtex
 @inproceedings{author2026supplychaincontrol,
-  title     = {Controle Ótimo de Cadeias de Suprimentos: Otimização com Variáveis Inteiras e Implementação em Excel},
-  author    = {Autor, A. and Autor, B.},
-  booktitle = {Anais do Simpósio Brasileiro de Pesquisa Operacional},
+  title     = {Optimal Control of Supply Chains: Integer-Variable Optimization and Excel Implementation},
+  author    = {Leonardi, L. and De Vito Jr., A. F. and Leonardi, F. and Zambuzi, N. C.},
+  booktitle = {Proceedings of the Brazilian Symposium on Operations Research},
   year      = {2026}
 }
 ```

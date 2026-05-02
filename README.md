@@ -122,7 +122,7 @@ If you use these files, please cite the associated SBPO 2026 paper:
 ```bibtex
 @inproceedings{author2026supplychaincontrol,
   title     = {Optimal Control of Supply Chains: Integer-Variable Optimization and Excel Implementation},
-  author    = {Author, A. and Author, B.},
+  author    = {Leonardi, L. and De Vito Jr., A. F. and Leonardi, F. and Zambuzi, N. C.},
   booktitle = {Proceedings of the Brazilian Symposium on Operations Research},
   year      = {2026}
 }

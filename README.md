@@ -1,16 +1,22 @@
-# Optimal Control of Supply Chains
+# SBPO 2026 - Optimal Control of Supply Chains / Controle Ótimo de Cadeias de Suprimentos
 
-This repository contains computational material related to integer optimal control formulations for supply chain management and bullwhip effect mitigation.
+This folder contains the computational files associated with the SBPO 2026 paper:
 
-The repository is organized by publication or project. Each folder contains the files associated with a specific study, including source code, spreadsheets, macros, and instructions for reproduction.
+Esta pasta contém os arquivos computacionais associados ao artigo do SBPO 2026:
 
-## Repository Structure
+**Optimal Control of Supply Chains: Integer-Variable Optimization and Excel Implementation**
+
+**Controle Ótimo de Cadeias de Suprimentos: Otimização com Variáveis Inteiras e Implementação em Excel**
+
+The study proposes an integer optimal control formulation for supply chain management and bullwhip effect mitigation, implemented in MATLAB and Excel/VBA.
+
+O estudo propõe uma formulação de controle ótimo inteiro para gestão de cadeias de suprimentos e mitigação do efeito chicote, implementada em MATLAB e Excel/VBA.
+
+## Folder Structure / Estrutura da Pasta
 
 ```text
-.
-├── SBPO2026/
-│   ├── main_ga_minmax_restricao.m
-│   ├── supply_chain_solver_excel_vba.xlsm
-│   ├── supply_chain_solver_macro.vba
-│   └── README.md
+SBPO2026/
+├── main_ga_minmax_restricao.m
+├── supply_chain_solver_excel_vba.xlsm
+├── supply_chain_solver_macro.vba
 └── README.md
